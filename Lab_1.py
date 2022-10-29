@@ -1,2 +1,3 @@
-name = input(Hello World)
-print(name)
+a = 5
+if a == 5:
+    print('Ура!')
