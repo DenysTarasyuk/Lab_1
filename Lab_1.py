@@ -1,1 +1,2 @@
-Hello World
+name = input(Hello World)
+print(name)
